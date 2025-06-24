@@ -3,7 +3,7 @@ The code in this project demonstrates the performance differences between TS_Ada
 
 
 # Usage
-1. Install Python 3.12 For convenience. execute the following command.
+1. Install Python 3.10 For convenience. execute the following command.
 
  ```bash
    pip install -r requirements.txt
